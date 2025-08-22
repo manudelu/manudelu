@@ -1,7 +1,7 @@
 👋 Hi, I'm Manuel!
 ---
 
-I’m a Robotics Engineer with a multidisciplinary background and a strong passion for autonomous systems, biologically inspired robotics, and aerial platforms. My work spans from simulation frameworks to hardware-in-the-loop applications, with an ever-growing focus on deploying autonomous solutions in the real world.
+I’m a Robotics Engineer with a multidisciplinary background and a strong passion for autonomous systems, aerial platforms, and even biologically inspired robotics. My work spans from simulation frameworks to hardware-in-the-loop applications, with an ever-growing focus on deploying autonomous solutions in the real world.
 
 💬 Sharing my journey and learnings in robotics, autonomy, and tech<br/>
 💡 MSc in Robotics Engineering + BSc in Biomedical Engineering (University of Genoa, Italy)<br/>
