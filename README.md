@@ -11,7 +11,7 @@ I’m a Robotics Engineer with a multidisciplinary background and a strong passi
 🛠️ Technical Skills
 ---
 
-- Languages: C++, Python, PDDL
+- Languages: Python, C++, Matlab, PDDL
 - Robotics & Simulation: ROS/ROS2, Gazebo, RViz, AirSim, PX4, Unreal Engine
 - Tools & Platforms: Git, Docker, MQTT
 - OS: Linux, Windows
