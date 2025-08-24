@@ -12,9 +12,8 @@ I’m a Robotics Engineer with a multidisciplinary background and a strong passi
 ---
 
 - Languages: Python, C++, Matlab, PDDL
-- Robotics & Simulation: ROS/ROS2, Gazebo, RViz, AirSim, PX4, Unreal Engine
-- Tools & Platforms: Git, Docker, MQTT
-- OS: Linux, Windows
+- Tools: ROS/ROS2, Docker, Git, Linux, Unreal Engine
+- Hardware: Arduino, Raspberry Pi
 
 📚 Publications
 ---
