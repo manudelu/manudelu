@@ -7,7 +7,7 @@ I’m a Robotics Engineer with a multidisciplinary background and a strong passi
 💡 MSc in Robotics Engineering + BSc in Biomedical Engineering (University of Genoa, Italy)<br/>
 🔭 Currently developing a digital twin of a fleet of DJI UAVs in ROS2 with AirSim, PX4, and Unreal Engine<br/>
 🌱 Exploring ROS2-based autonomous navigation (EKF, SLAM, path planning) in both simulation and on real robots<br/>
-:boom: Outside of engineering, I’m a drummer and I also enjoy playing tennis
+:boom: Outside of engineering, I’m a drummer and I also play tennis
 
 
 🛠️ Technical Skills
