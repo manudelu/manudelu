@@ -11,4 +11,4 @@ I’m a Robotics Engineer with a multidisciplinary background and a strong passi
 📚 Publications
 ---
 
-Delucchi, M., Vercelli, G., and Priyadarshan, S. S., “IoT-Enabled Control Room for Coordinated UAV Fleet Management,” Proceedings of the International Workshop on Unmanned Autonomous Vehicles and IoT (UAV-IoT 2025), co-located with the 22nd IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2025), Chicago, IL, USA, Oct. 2025.
+M. Delucchi, G. Vercelli and S. S. Priyadarshan, "IoT-Enabled Control Room for Coordinated UAV Fleet Management," 2025 IEEE 22nd International Conference on Mobile Ad-Hoc and Smart Systems (MASS), Chicago, IL, USA, 2025, pp. 753-758, doi: 10.1109/MASS66014.2025.00123.
