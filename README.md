@@ -5,8 +5,6 @@ I’m a Robotics Engineer with a multidisciplinary background and a strong passi
 
 💬 Sharing my journey and learnings in robotics, autonomy, and tech<br/>
 💡 MSc in Robotics Engineering + BSc in Biomedical Engineering (University of Genoa, Italy)<br/>
-🔭 Currently developing a digital twin of a fleet of DJI UAVs in ROS2 with AirSim, PX4, and Unreal Engine<br/>
-🌱 Exploring ROS2-based autonomous navigation (EKF, SLAM, path planning) in both simulation and on real robots<br/>
 
 📚 Publications
 ---
